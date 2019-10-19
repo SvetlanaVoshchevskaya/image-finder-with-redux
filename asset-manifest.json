@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image-finder-with-redux/static/css/main.139c8694.chunk.css",
+    "main.js": "/image-finder-with-redux/static/js/main.fac54e1d.chunk.js",
+    "main.js.map": "/image-finder-with-redux/static/js/main.fac54e1d.chunk.js.map",
+    "runtime~main.js": "/image-finder-with-redux/static/js/runtime~main.d2f1cd52.js",
+    "runtime~main.js.map": "/image-finder-with-redux/static/js/runtime~main.d2f1cd52.js.map",
+    "static/js/2.771664c4.chunk.js": "/image-finder-with-redux/static/js/2.771664c4.chunk.js",
+    "static/js/2.771664c4.chunk.js.map": "/image-finder-with-redux/static/js/2.771664c4.chunk.js.map",
+    "index.html": "/image-finder-with-redux/index.html",
+    "precache-manifest.e0b2a233492d0bc92a2adb63787f9f2e.js": "/image-finder-with-redux/precache-manifest.e0b2a233492d0bc92a2adb63787f9f2e.js",
+    "service-worker.js": "/image-finder-with-redux/service-worker.js",
+    "static/css/main.139c8694.chunk.css.map": "/image-finder-with-redux/static/css/main.139c8694.chunk.css.map"
+  }
+}
